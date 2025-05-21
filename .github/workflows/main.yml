@@ -3,7 +3,7 @@ name: Deploy Flask App to Heroku
 on:
   push:
     branches:
-      - master  
+      - main  
 
 jobs:
   build:
